@@ -5,8 +5,6 @@ dopresskit-static is a static version of the great [Rami Ismail's presskit()](ht
 
 If you don't wan't to rely on PHP you can use it with the same xml files & directory structure as the original presskit().
 
-You can even **host it on dropbox** : [demo](https://dl.dropboxusercontent.com/u/8211966/presskit-static/index.html)
-
 # Features
 * Not PHP
 * More comprehensible source (thanks to python being python & the simple jinja syntax)
